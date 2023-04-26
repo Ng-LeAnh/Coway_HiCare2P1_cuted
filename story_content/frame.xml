@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111000101" textdirection="ltr" textengine="DirectWrite" device="true" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x00A2DE">
   <layouts>
-    <layout name="npnxnanbsnfns10111000101" font="Oswald" controllayout="npnxnanbsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000101" font="Oswald" controllayout="pxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npxnabnsnfns10111000101" font="Oswald" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npnxnanbnsnfns10111000101" font="Oswald" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000100" font="Oswald" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pnxanbnsnfns10111000101" font="Oswald" controllayout="pnxanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npnxnanbsnfns10111000101" font="Oswald Light" controllayout="npnxnanbsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Oswald Light" controllayout="pxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Oswald Light" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Oswald Light" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Oswald Light" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="pnxanbnsnfns10111000101" font="Oswald Light" controllayout="pnxanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="eLearning: HiCare2 Part2 (cuted)" />
+              <option name="title_text" value="HiCare2 Part1 (cuted)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -71,7 +71,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Oswald" />
+              <option name="font" value="Oswald Light" />
             </options>
           </option>
           <option name="settings" value="false" />
@@ -1599,9 +1599,9 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Oswald">
+    <font name="Oswald Light">
       <files>
-        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
         <file bold="false" italic="false" />
       </files>
     </font>
@@ -1610,9 +1610,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5iTCsrJLlRB.5bNjlFuyJcq" displaytext="Hi-Care 2.0 - Phần 1: Giới thiệu" expand="false" type="slide">
+        <slidelink slideid="_player.5iTCsrJLlRB.5bNjlFuyJcq" displaytext="Hi-Care 2.0 - Phần 1: Giới thiệu" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5iTCsrJLlRB.5evwkzOTjK5" displaytext="Giao diện sử dụng của Hi-Care 2.0" expand="false" type="slide">
+            <slidelink slideid="_player.5iTCsrJLlRB.5evwkzOTjK5" displaytext="Giao diện sử dụng của Hi-Care 2.0" expand="true" type="slide">
               <links>
                 <slidelink slideid="_player.5iTCsrJLlRB.5odhWKAMZNV" displaytext="Màn hình trang chủ" expand="false" type="slide" />
                 <slidelink slideid="_player.5iTCsrJLlRB.5z2TptmfAoE" displaytext="Màn hình danh mục các chức năng (Menu)" expand="false" type="slide" />
